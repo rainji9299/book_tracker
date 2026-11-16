@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Books 2026</title>
+<meta name="description" content="What I'm reading in 2026: covers, ratings and what I'm reading right now.">
+<meta property="og:title" content="Books 2026">
+<meta property="og:description" content="What I'm reading in 2026: covers, ratings and what I'm reading right now.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,500;1,6..96,500&family=Literata:ital,opsz,wght@0,7..72,400;1,7..72,400&family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+TC:wght@600&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+  <header class="mast">
+    <h1>Books <i>2026</i></h1>
+    <div class="stats" id="stats" aria-live="polite"></div>
+  </header>
+
+  <section class="now" id="now" hidden aria-label="Currently reading"></section>
+
+  <nav class="bar" aria-label="Shelf">
+    <div class="tabs" role="tablist">
+      <button role="tab" data-tab="read" aria-selected="true">Read</button>
+      <button role="tab" data-tab="list" aria-selected="false">2026 list</button>
+      <button role="tab" data-tab="toread" aria-selected="false">To read</button>
+    </div>
+  </nav>
+
+  <main id="shelf"><p class="empty">Loading the shelf…</p></main>
+
+  <footer class="foot">
+    <p>A reading log built with <a href="https://claude.ai" rel="noopener">Claude</a>. Updated <span id="updated"></span>.</p>
+  </footer>
+</div>
+
+<dialog id="detail" aria-labelledby="d-title"></dialog>
+
+<script src="app.js"></script>
+</body>
+</html>

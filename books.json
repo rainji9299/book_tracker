@@ -1,0 +1,500 @@
+{
+ "updated": "2026-11-16",
+ "books": [
+  {
+   "id": "b01",
+   "title": "Taiwan Travelogue",
+   "author": "Yang Shuang-zi (trans. Lin King)",
+   "status": "read",
+   "rating": 3,
+   "pages": 320,
+   "cover": "covers/b01.jpg",
+   "n": 1
+  },
+  {
+   "id": "b02",
+   "title": "One Day, Everyone Will Have Always Been Against This",
+   "author": "Omar El Akkad",
+   "status": "read",
+   "rating": 5,
+   "pages": 208,
+   "cover": "covers/b02.jpg",
+   "n": 2
+  },
+  {
+   "id": "b03",
+   "title": "Apple in China: The Capture of the World's Greatest Company",
+   "author": "Patrick McGee",
+   "status": "read",
+   "rating": 4,
+   "pages": 448,
+   "cover": "covers/b03.jpg",
+   "n": 3
+  },
+  {
+   "id": "b04",
+   "title": "Things in Nature Merely Grow",
+   "author": "Yiyun Li",
+   "status": "read",
+   "rating": 5,
+   "pages": 192,
+   "cover": "covers/b04.jpg",
+   "n": 4
+  },
+  {
+   "id": "b06",
+   "title": "Judgment at Tokyo: World War II on Trial and the Making of Modern Asia",
+   "author": "Gary J. Bass",
+   "status": "read",
+   "rating": 5,
+   "pages": 912,
+   "cover": "covers/b06.jpg",
+   "n": 6
+  },
+  {
+   "id": "b07",
+   "title": "On Palestine",
+   "author": "Noam Chomsky & Ilan Pappé (ed. Frank Barat)",
+   "status": "read",
+   "rating": 5,
+   "pages": 224,
+   "cover": "covers/b07.jpg",
+   "n": 7
+  },
+  {
+   "id": "b08",
+   "title": "The Hundred Years' War on Palestine: A History of Settler Colonialism and Resistance, 1917–2017",
+   "author": "Rashid Khalidi",
+   "status": "read",
+   "rating": 5,
+   "pages": 336,
+   "cover": "covers/b08.jpg",
+   "n": 8
+  },
+  {
+   "id": "b09",
+   "title": "台北人",
+   "author": "白先勇",
+   "status": "read",
+   "rating": 5,
+   "pages": 299,
+   "cover": "covers/b09.jpg",
+   "n": 9
+  },
+  {
+   "id": "b10",
+   "title": "The Looming Tower: Al-Qaeda and the Road to 9/11",
+   "author": "Lawrence Wright",
+   "status": "read",
+   "rating": 4,
+   "pages": 480,
+   "cover": "covers/b10.jpg",
+   "n": 10
+  },
+  {
+   "id": "b11",
+   "title": "Shared Prosperity in a Fractured World: A New Economics for the Middle Class, the Global Poor, and Our Climate",
+   "author": "Dani Rodrik",
+   "status": "read",
+   "rating": 3.5,
+   "pages": 336,
+   "cover": "covers/b11.jpg",
+   "n": 11
+  },
+  {
+   "id": "b12",
+   "title": "Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism",
+   "author": "Sarah Wynn-Williams",
+   "status": "read",
+   "rating": 3,
+   "pages": 400,
+   "cover": "covers/b12.jpg",
+   "n": 12
+  },
+  {
+   "id": "b13",
+   "title": "Small Things Like These",
+   "author": "Claire Keegan",
+   "status": "read",
+   "rating": 5,
+   "pages": 128,
+   "cover": "covers/b13.jpg",
+   "n": 13,
+   "order": 15,
+   "finished": "2026-10-15"
+  },
+  {
+   "id": "b14",
+   "title": "Minor Detail",
+   "author": "Adania Shibli",
+   "status": "read",
+   "rating": 5,
+   "pages": 112,
+   "cover": "covers/b14.jpg",
+   "n": 14,
+   "order": 14,
+   "finished": "2026-10-11"
+  },
+  {
+   "id": "b15",
+   "title": "I Want to Die but I Want to Eat Tteokbokki",
+   "author": "Baek Sehee",
+   "status": "toread",
+   "rating": null,
+   "pages": 208,
+   "cover": "covers/b15.jpg",
+   "n": 15
+  },
+  {
+   "id": "b16",
+   "title": "I Want to Die but I Still Want to Eat Tteokbokki",
+   "author": "Baek Sehee",
+   "status": "toread",
+   "rating": null,
+   "pages": 224,
+   "cover": "covers/b16.jpg",
+   "n": 16
+  },
+  {
+   "id": "b17",
+   "title": "The Year of Magical Thinking",
+   "author": "Joan Didion",
+   "status": "read",
+   "rating": 4,
+   "pages": 240,
+   "cover": "covers/b17.jpg",
+   "n": 17,
+   "order": 13
+  },
+  {
+   "id": "b18",
+   "title": "How to Hide an Empire: A History of the Greater United States",
+   "author": "Daniel Immerwahr",
+   "status": "reading",
+   "rating": null,
+   "pages": 528,
+   "cover": "covers/b18.jpg",
+   "n": 18,
+   "started": "2026-11-16",
+   "currentPage": 400
+  },
+  {
+   "id": "b19",
+   "title": "Everyone Who Is Gone Is Here: The United States, Central America, and the Making of a Crisis",
+   "author": "Jonathan Blitzer",
+   "status": "toread",
+   "rating": null,
+   "pages": 528,
+   "cover": "covers/b19.jpg",
+   "n": 19
+  },
+  {
+   "id": "b20",
+   "title": "King Leopold's Ghost: A Story of Greed, Terror, and Heroism in Colonial Africa",
+   "author": "Adam Hochschild",
+   "status": "toread",
+   "rating": null,
+   "pages": 384,
+   "cover": "covers/b20.jpg",
+   "n": 20
+  },
+  {
+   "id": "b21",
+   "title": "Islamic Art and Architecture",
+   "author": "Robert Hillenbrand",
+   "status": "toread",
+   "rating": null,
+   "pages": 352,
+   "cover": "covers/b21.jpg",
+   "n": 21
+  },
+  {
+   "id": "b22",
+   "title": "A Marriage at Sea: A True Story of Love, Obsession, and Shipwreck",
+   "author": "Sophie Elmhirst",
+   "status": "toread",
+   "rating": null,
+   "pages": 256,
+   "cover": "covers/b22.jpg",
+   "n": 22
+  },
+  {
+   "id": "b23",
+   "title": "Rise and Kill First: The Secret History of Israel's Targeted Assassinations",
+   "author": "Ronen Bergman",
+   "status": "toread",
+   "rating": null,
+   "pages": 784,
+   "cover": "covers/b23.jpg",
+   "n": 23
+  },
+  {
+   "id": "b24",
+   "title": "The Showman: Inside the Invasion That Shook the World and Made a Leader of Volodymyr Zelensky",
+   "author": "Simon Shuster",
+   "status": "toread",
+   "rating": null,
+   "pages": 400,
+   "cover": "covers/b24.jpg",
+   "n": 24
+  },
+  {
+   "id": "b25",
+   "title": "The Return: Fathers, Sons and the Land in Between",
+   "author": "Hisham Matar",
+   "status": "toread",
+   "rating": null,
+   "pages": 256,
+   "cover": "covers/b25.jpg",
+   "n": 25
+  },
+  {
+   "id": "b26",
+   "title": "Black Flags: The Rise of ISIS",
+   "author": "Joby Warrick",
+   "status": "toread",
+   "rating": null,
+   "pages": 368,
+   "cover": "covers/b26.jpg",
+   "n": 26
+  },
+  {
+   "id": "b27",
+   "title": "Hirohito and the Making of Modern Japan",
+   "author": "Herbert P. Bix",
+   "status": "toread",
+   "rating": null,
+   "pages": 800,
+   "cover": "covers/b27.jpg",
+   "n": 27
+  },
+  {
+   "id": "b28",
+   "title": "Motherland: A Feminist History of Modern Russia",
+   "author": "Julia Ioffe",
+   "status": "toread",
+   "rating": null,
+   "pages": 464,
+   "cover": "covers/b28.jpg",
+   "n": 28
+  },
+  {
+   "id": "b29",
+   "title": "A Room of One's Own",
+   "author": "Virginia Woolf",
+   "status": "toread",
+   "rating": null,
+   "pages": 112,
+   "cover": "covers/b29.jpg",
+   "n": 29
+  },
+  {
+   "id": "b30",
+   "title": "The Origins of Totalitarianism",
+   "author": "Hannah Arendt",
+   "status": "toread",
+   "rating": null,
+   "pages": 576,
+   "cover": "covers/b30.jpg",
+   "n": 30
+  },
+  {
+   "id": "b31",
+   "title": "The Fire Next Time",
+   "author": "James Baldwin",
+   "status": "toread",
+   "rating": null,
+   "pages": 128,
+   "cover": "covers/b31.jpg",
+   "n": 31
+  },
+  {
+   "id": "b32",
+   "title": "Cobalt Red: How the Blood of the Congo Powers Our Lives",
+   "author": "Siddharth Kara",
+   "status": "toread",
+   "rating": null,
+   "pages": 288,
+   "cover": "covers/b32.jpg",
+   "n": 32
+  },
+  {
+   "id": "b33",
+   "title": "Cuba: An American History",
+   "author": "Ada Ferrer",
+   "status": "toread",
+   "rating": null,
+   "pages": 576,
+   "cover": "covers/b33.jpg",
+   "n": 33
+  },
+  {
+   "id": "b34",
+   "title": "On Tyranny: Twenty Lessons from the Twentieth Century",
+   "author": "Timothy Snyder",
+   "status": "toread",
+   "rating": null,
+   "pages": 128,
+   "cover": "covers/b34.jpg",
+   "n": 34
+  },
+  {
+   "id": "b35",
+   "title": "Black Wave: Saudi Arabia, Iran, and the Forty-Year Rivalry That Unraveled Culture, Religion, and Collective Memory in the Middle East",
+   "author": "Kim Ghattas",
+   "status": "toread",
+   "rating": null,
+   "pages": 400,
+   "cover": "covers/b35.jpg",
+   "n": 35
+  },
+  {
+   "id": "b36",
+   "title": "Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster",
+   "author": "Adam Higginbotham",
+   "status": "toread",
+   "rating": null,
+   "pages": 560,
+   "cover": "covers/b36.jpg",
+   "n": 36
+  },
+  {
+   "id": "b37",
+   "title": "The Silk Roads: A New History of the World",
+   "author": "Peter Frankopan",
+   "status": "toread",
+   "rating": null,
+   "pages": 656,
+   "cover": "covers/b37.jpg",
+   "n": 37
+  },
+  {
+   "id": "b38",
+   "title": "Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infection",
+   "author": "John Green",
+   "status": "reading",
+   "rating": null,
+   "pages": 208,
+   "cover": "covers/b38.jpg",
+   "n": 38,
+   "started": "2026-11-16",
+   "currentPage": 75
+  },
+  {
+   "id": "b40",
+   "title": "White Malice: The CIA and the Covert Recolonization of Africa",
+   "author": "Susan Williams",
+   "status": "toread",
+   "rating": null,
+   "pages": 672,
+   "cover": "covers/b40.jpg",
+   "n": 40
+  },
+  {
+   "id": "b41",
+   "title": "Africa Is Not a Country: Notes on a Bright Continent",
+   "author": "Dipo Faloyin",
+   "status": "toread",
+   "rating": null,
+   "pages": 304,
+   "cover": "covers/b41.jpg",
+   "n": 41
+  },
+  {
+   "id": "b42",
+   "title": "Wild Thing: A Life of Paul Gauguin",
+   "author": "Sue Prideaux",
+   "status": "toread",
+   "rating": null,
+   "pages": 400,
+   "cover": "covers/b42.jpg",
+   "n": 42
+  },
+  {
+   "id": "b43",
+   "title": "The Nerd Reich: Silicon Valley Fascism and the War on Democracy",
+   "author": "Gil Duran",
+   "status": "toread",
+   "rating": null,
+   "pages": 352,
+   "cover": "covers/b43.jpg",
+   "n": 43
+  },
+  {
+   "id": "b45",
+   "title": "Anti-Zionism: A Jewish History",
+   "author": "Benjamin Moser",
+   "status": "toread",
+   "rating": null,
+   "pages": 400,
+   "cover": "covers/b45.jpg",
+   "n": 45
+  },
+  {
+   "id": "b46",
+   "title": "Bitter Fruit: The Story of the American Coup in Guatemala",
+   "author": "Stephen Schlesinger & Stephen Kinzer",
+   "status": "toread",
+   "rating": null,
+   "pages": 374,
+   "cover": "covers/b46.jpg",
+   "n": 46
+  },
+  {
+   "id": "b47",
+   "title": "Born in Blackness: Africa, Africans, and the Making of the Modern World, 1471 to the Second World War",
+   "author": "Howard W. French",
+   "status": "toread",
+   "rating": null,
+   "pages": 544,
+   "cover": "covers/b47.jpg",
+   "n": 47
+  },
+  {
+   "id": "b48",
+   "title": "It's Our Turn to Eat: The Story of a Kenyan Whistle-Blower",
+   "author": "Michela Wrong",
+   "status": "toread",
+   "rating": null,
+   "pages": 368,
+   "cover": "covers/b48.jpg",
+   "n": 48
+  },
+  {
+   "id": "b49",
+   "title": "Strangers: A Memoir of Marriage",
+   "author": "Belle Burden",
+   "status": "read",
+   "rating": 5,
+   "pages": 256,
+   "cover": "covers/b49.jpg",
+   "n": 49,
+   "order": 19,
+   "finished": "2026-11-16"
+  },
+  {
+   "id": "b50",
+   "title": "层叠的北京：看得见的古都八百年",
+   "author": "李纬文",
+   "status": "read",
+   "rating": 5,
+   "pages": 262,
+   "cover": "covers/b50.jpg",
+   "n": 50,
+   "order": 21,
+   "finished": "2026-11-16"
+  },
+  {
+   "id": "b51",
+   "title": "Peking: A Historical and Intimate Description of Its Chief Places of Interest",
+   "author": "Juliet Bredon",
+   "status": "read",
+   "rating": 4,
+   "pages": 523,
+   "cover": "covers/b51.jpg",
+   "n": 51,
+   "order": 20,
+   "finished": "2026-11-16"
+  }
+ ]
+}
